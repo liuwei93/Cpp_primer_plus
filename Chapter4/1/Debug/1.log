@@ -1,0 +1,4 @@
+﻿  1.cpp
+c:\users\liuwei\documents\github\cpp_primer_plus\chapter4\1\1.cpp(6): error C2137: 空字符常量
+c:\users\liuwei\documents\github\cpp_primer_plus\chapter4\1\1.cpp(6): error C3688: 文本后缀“abcd”无效；未找到文文本运算符或文本运算符模板“operator """"abcd”
+c:\users\liuwei\documents\github\cpp_primer_plus\chapter4\1\1.cpp(6): error C2059: 语法错误:“常数”

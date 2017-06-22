@@ -3,9 +3,7 @@
 using namespace std;
 void main()
 {
-	char a ;
-	cin >> a;
-	cout << a << endl;
-	int b = a;
-	cout << b << endl;
+	//char a ;
+	//cin >> a;
+	cout << 'a' << '\11' << 'b' << endl;
 }
